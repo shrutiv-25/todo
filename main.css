@@ -1,0 +1,43 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(10, 9, 5, 0.593);
+}
+.container{
+    margin-top: 40px;
+}
+#headx{
+    border-radius: 15px;
+}
+#btnx:hover{
+    background-color: rgb(9, 15, 9);
+}
+#listx{
+    font-size: 25px;
+    font-display: block;
+    display: inline-block;
+    align-content: center;
+}
+.col{
+    position: relative;
+    width: 100%;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #080607;
+    border-color:#080607;
+}
+element.style {
+    color: rgb(10, 8, 8);
+    border-color: black;
+    font-size: 16px;
+    border-radius: 102px;
+    display: none;
+}
+button{
+    display: inline-block;
+    text-align: center;
+    padding: 1px 5px;
+    border-width: 2px;
+}
